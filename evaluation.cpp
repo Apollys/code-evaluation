@@ -1,5 +1,3 @@
-// Compile with -std=c++11 flag
-
 // A very general, flexible, and powerful method for evaluating a candidate's
 // solution to a programming problem in a fully-automated manner is to take a
 // pointer to their solution function, run tests on that function, and return a
